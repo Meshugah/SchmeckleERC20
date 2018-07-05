@@ -1,2 +1,2 @@
 # SchmeckleERC20
-## Official Page for all things Schmeckle, the ERC20 token to meme them all.
+## ERC20 Token created for Schmeckle
